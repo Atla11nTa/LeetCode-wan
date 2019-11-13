@@ -16,13 +16,22 @@
 
 ##### 经典题:
 
-136.single-number.md：求数组中仅出现一次的数
+136.single-number：求数组中仅出现一次的数
 
-172.factorial-trailing-zeroes.md：求数字末尾0的个数
+172.factorial-trailing-zeroes：求数字末尾0的个数
 
 0198.house-robber：DP简单题
 
 ##### 刷题数：10
 
-做到226.invert-binary-tree.md
+做到226.invert-binary-tree
 
+## day3
+
+##### 经典题：
+
+0437.path-sum-iii：求二叉树中路径长度为x的路径条数
+
+##### 刷题数：9
+
+做到0002. Add Two Numbers
