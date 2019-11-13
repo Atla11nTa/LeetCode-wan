@@ -26,7 +26,7 @@
 
 做到226.invert-binary-tree
 
-## [day3]((/刷题笔记/Day3刷题笔记.md))
+## [day3](/刷题笔记/Day3刷题笔记.md)
 
 ##### 经典题：
 
